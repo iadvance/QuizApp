@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text1">Один</string>
+    <string name="lvl1text2">Два</string>
+    <string name="lvl1text3">Три</string>
+    <string name="lvl1text4">Четыре</string>
+    <string name="lvl1text5">Пять</string>
+    <string name="lvl1text6">Шесть</string>
+    <string name="lvl1text7">Семь</string>
+    <string name="lvl1text8">Восемь</string>
+    <string name="lvl1text9">Девять</string>
+
+    <string name="lvl2text1">Один</string>
+    <string name="lvl2text2">Два</string>
+    <string name="lvl2text3">Три</string>
+    <string name="lvl2text4">Четыре</string>
+    <string name="lvl2text5">Пять</string>
+    <string name="lvl2text6">Шесть</string>
+    <string name="lvl2text7">Семь</string>
+    <string name="lvl2text8">Восемь</string>
+    <string name="lvl2text9">Девять</string>
+    <string name="lvl2text10">Десять</string>
+
+    <string name="lvl3text1">Бит</string>
+    <string name="lvl3text2">Байт</string>
+    <string name="lvl3text3">Килобайт</string>
+    <string name="lvl3text4">Мегабайт</string>
+    <string name="lvl3text5">Гигабайт</string>
+    <string name="lvl3text6">Терабайт</string>
+    <string name="lvl3text7">Петабайт</string>
+    <string name="lvl3text8">Эксабайт</string>
+    <string name="lvl3text9">Зеттабайт</string>
+    <string name="lvl3text10">Йоттабайт</string>
+
+    <string name="lvl4text1">Азиатский\nбуйвол</string>
+    <string name="lvl4text2">Морской\nкрокодил</string>
+    <string name="lvl4text3">Чёрный\nносорог</string>
+    <string name="lvl4text4">Морж</string>
+    <string name="lvl4text5">Жираф</string>
+    <string name="lvl4text6">Гаур</string>
+    <string name="lvl4text7">Гиппопотам</string>
+    <string name="lvl4text8">Белый\nносорог</string>
+    <string name="lvl4text9">Азиатский\nслон</string>
+    <string name="lvl4text10">Африканский\nслон</string>
+
+    <string name="lvl5text1">Меркурий</string>
+    <string name="lvl5text2">Венера</string>
+    <string name="lvl5text3">Земля</string>
+    <string name="lvl5text4">Марс</string>
+    <string name="lvl5text5">Юпитер</string>
+    <string name="lvl5text6">Сатурн</string>
+    <string name="lvl5text7">Уран</string>
+    <string name="lvl5text8">Нептун</string>
+    <string name="lvl5text9">Плутон</string>
+    <string name="lvl5text10">Альфа\nЦентавра</string>
+
+    <string name="lvl6text1">Каменный век\n(2,5 млн — 7 тысяч лет до н. э.)</string>
+    <string name="lvl6text2">Бронзовый век\n(3 500–1 300 гг. до н. э.)</string>
+    <string name="lvl6text3">Железный век\n(1 300 год до н. э. — 340 год н. э.)</string>
+    <string name="lvl6text4">Античность\n(776 год до н. э. — 565 год н. э.)</string>
+    <string name="lvl6text5">«Тёмные века»\n(565–1 200 гг.)</string>
+    <string name="lvl6text6">Эпоха Возрождения\n(1 300–1 600 гг.)</string>
+    <string name="lvl6text7">Эпоха Великих географических открытий\n(1 500–1 700 гг.)</string>
+    <string name="lvl6text8">Долгий XIX век\n(1789–1914 гг.)</string>
+    <string name="lvl6text9">Новейшее время\n(1914–1991 гг.)</string>
+    <string name="lvl6text10">Информационный век\n(1980 г. — настоящее время)</string>
+
+
+    <string name="lvl7text1">Париж\n(Франция)</string>
+    <string name="lvl7text2">Санкт-Петербург\n(Россия)</string>
+    <string name="lvl7text3">Нью-Йорк\n(США)</string>
+    <string name="lvl7text4">Лондон\n(Великобритания)</string>
+    <string name="lvl7text5">Мехико\n(Мексика)</string>
+    <string name="lvl7text6">Сеул\n(Южная Корея)</string>
+    <string name="lvl7text7">Москва\n(Россия)</string>
+    <string name="lvl7text8">Токио\n(Япония)</string>
+    <string name="lvl7text9">Дели\n(Индия)</string>
+    <string name="lvl7text10">Гуанчжоу\n(Китай)</string>
+
+    <string name="lvl8text1">Тамбов</string>
+    <string name="lvl8text2">Владимир</string>
+    <string name="lvl8text3">Сочи</string>
+    <string name="lvl8text4">Калининград</string>
+    <string name="lvl8text5">Владивосток</string>
+    <string name="lvl8text6">Тюмень</string>
+    <string name="lvl8text7">Пермь</string>
+    <string name="lvl8text8">Новосибирск</string>
+    <string name="lvl8text9">Санкт-Петербург</string>
+    <string name="lvl8text10">Москва</string>
+
+    <string name="lvl9text1">Италия</string>
+    <string name="lvl9text2">Великобритания</string>
+    <string name="lvl9text3">Япония</string>
+    <string name="lvl9text4">Россия</string>
+    <string name="lvl9text5">Нигерия</string>
+    <string name="lvl9text6">Пакистан</string>
+    <string name="lvl9text7">Индонезия</string>
+    <string name="lvl9text8">США</string>
+    <string name="lvl9text9">Китай</string>
+    <string name="lvl9text10">Индия</string>
+
+    <string name="lvl10text1">Италия</string>
+    <string name="lvl10text2">Япония</string>
+    <string name="lvl10text3">Таиланд</string>
+    <string name="lvl10text4">Египет</string>
+    <string name="lvl10text5">Мексика</string>
+    <string name="lvl10text6">Индия</string>
+    <string name="lvl10text7">Бразилия</string>
+    <string name="lvl10text8">Китай</string>
+    <string name="lvl10text9">Канада</string>
+    <string name="lvl10text10">Россия</string>
+</resources>

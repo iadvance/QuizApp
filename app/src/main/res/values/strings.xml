@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Начать</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+    <string name="level_is">Уровень: </string>
+    <string name="ok">Далее</string>
+    <string name="reset">Сброс</string>
+    <string name="openAll">Открыть все\nуровни</string>
+    <string name="level1">Уровень 1</string>
+    <string name="level2">Уровень 2</string>
+    <string name="level3">Уровень 3</string>
+    <string name="level4">Уровень 4</string>
+    <string name="level5">Уровень 5</string>
+    <string name="level6">Уровень 6</string>
+    <string name="level7">Уровень 7</string>
+    <string name="level8">Уровень 8</string>
+    <string name="level9">Уровень 9</string>
+    <string name="level10">Уровень 10</string>
+    <string name="randomFact">Случайный факт по теме:</string>
+    <string name="locked_str">🔒</string>
+</resources>

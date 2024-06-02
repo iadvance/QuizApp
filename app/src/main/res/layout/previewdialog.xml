@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogfon"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="@drawable/dialogbg_rounded"
+    android:orientation="vertical"
+    android:scaleType="centerCrop"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp"
+        >
+
+        <TextView
+            android:id="@+id/btnclose"
+            android:text="&#60;"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="start"
+            android:background="@drawable/btn_stroke_black_press_white"
+            android:gravity="center"
+            android:textSize="24sp"
+            android:textColor="@color/true_white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="20"
+            android:src="@drawable/question" />
+
+        <TextView
+            android:id="@+id/textDescribe"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="40"
+            android:textAlignment="center"
+            android:padding="5dp"
+            android:background="@drawable/dialog_style"
+            android:text="@string/levelone"
+            android:textColor="@color/true_white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btncontinue"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_stroke_black_press_white"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/ok"
+            android:textColor="@color/true_white"
+            android:textAllCaps="false"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</LinearLayout>
